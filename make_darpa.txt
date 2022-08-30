@@ -1,0 +1,1 @@
+conda create --prefix /home/e.conway/.conda/envs/darpa2 -c conda-forge python=3.7 tensorflow keras-ocr scikit-learn opencv-python pyproj gdal pandas geopy rasterio pytesseract jupyterlab ipywidgets jupyterlab_widgets

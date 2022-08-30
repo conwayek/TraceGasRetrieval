@@ -1,0 +1,1 @@
+python3 scripts/python/build.py --build_path /scratch/e.conway/3DReconstruction/COLMAP/colmap/build/ --colmap_path /scratch/e.conway/3DReconstruction/COLMAP/colmap/ --boost_path "/usr/lib64/" --qt_path "/usr/lib64/qt4/" --cuda_path "/usr/lib64/" --cgal_path "/usr/lib64" --with_cuda
